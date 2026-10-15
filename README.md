@@ -63,7 +63,7 @@ uv run python -m travel_mind.rag.ingest
 ## 启动 API
 
 ```powershell
-uv run uvicorn travel_mind.main:app --reload
+uv run travel-mind --reload
 ```
 
 接口文档：
